@@ -1,3 +1,9 @@
+## Instructions
+
+Your can run each R file independently (no matter the order)
+The script will check on your working directory before to download and/or unzip and will do that only if needed.
+
+
 ## Introduction
 
 This assignment uses data from
